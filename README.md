@@ -58,7 +58,7 @@ Keep **all files in the same folder** — the bot won't run if the jars are sepa
 
 ### 2. Launch
 
-Double-click **`run.bat`** — a terminal window will open, then the bot UI will appear.
+Double-click **`run.bat`** — a terminal window will open, then the bot UI will appear.(Run as Admin if roblox is running as administrator)
 
 > ⚠️ Do **not** close the terminal window — it keeps the bot alive.
 
