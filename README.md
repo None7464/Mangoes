@@ -36,7 +36,7 @@ java -version
 
 ### 1. Download
 
-Grab the latest release zip from the [Releases](https://github.com/None7464/Mangoes/releases/tag/Beta) page and extract it.  
+Grab the latest release zip from the [Releases](https://github.com/None7464/Mangoes/releases/tag/Release) page and extract it.  
 Keep **all files in the same folder** — the bot won't run if the jars are separated.
 
 ```
