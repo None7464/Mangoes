@@ -1,0 +1,70 @@
+{
+  "BASE_DELAY_MS": 1,
+  "RELEASE_DELAY_MS": 10,
+  "HIT_DELAY_MS": 0,
+  "COLOR_TOLERANCE": 30,
+  "PADDING": 5,
+  "DEBUG": true,
+  "DEBUG_UPDATE_RATE": 0.5,
+  "HOLD_DETECTION_ENABLED": true,
+  "HOLD_CHECK_OFFSET": 50,
+  "DEBUG_PANEL": {
+    "enabled": true
+  },
+  "NOTE_COORDS": {
+    "D": [
+      319,
+      478
+    ],
+    "F": [
+      359,
+      477
+    ],
+    "Space": [
+      399,
+      477
+    ],
+    "J": [
+      440,
+      477
+    ],
+    "K": [
+      481,
+      475
+    ]
+  },
+  "NOTE_COLORS": {
+    "D": [
+      153,
+      0,
+      255
+    ],
+    "F": [
+      255,
+      0,
+      153
+    ],
+    "Space": [
+      0,
+      153,
+      255
+    ],
+    "J": [
+      0,
+      255,
+      153
+    ],
+    "K": [
+      255,
+      153,
+      0
+    ]
+  },
+  "KEY_BINDINGS": {
+    "D": "d",
+    "F": "f",
+    "Space": "g",
+    "J": "j",
+    "K": "k"
+  }
+}
