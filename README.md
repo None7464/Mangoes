@@ -190,11 +190,12 @@ Notice: No Need To Download this as this is in the .zip already.
 - [JNA PLATFORM 5.13.0](https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.13.0/)
 
 ---
-
 ## 📋 Changelog
-
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.0 | 2025-03-20 | Full UI rewrite (compact two-column), Load Config button, Credits & Settings panel, coord picker no-resize fix |
+| v1.8 | 2025-03-19 | Fixed "only last key detects" bug (lane hash collision), batched activity log, coord picker |
+| v1.7 | 2025-03-19 | Faded/translucent note detection, bulk getRGB, lock-free scanner snapshot |
 | v1.6 | 2025-03-13 | Live key binding editor, fixed P-key pause (was broken since v1.0) |
 | v1.5 | 2025-02-28 | Multi-mode 4K–9K support, per-mode JSON files |
 | v1.4 | 2025-02-02 | Replaced console stats with Swing UI |
