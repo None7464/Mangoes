@@ -23,7 +23,7 @@
 ## ⚙️ Requirements
 
 - **Windows** (uses WinAPI for key detection)
-- **Java 11 or newer** — [Download here](https://www.java.com/en/download/)
+- **Jdk 26** — [Download here](https://www.oracle.com/java/technologies/downloads/) installer or msi installer
 
 To check if Java is installed, open Command Prompt and run:
 ```
