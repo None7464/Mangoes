@@ -35,22 +35,10 @@ April 7, 2026
 ## Quick Start
 
 1. Place JavaFX and libs exactly as listed in Requirements.
-2. Double-click `sailor.bat`.
+2. Double-click `sailor.bat`, If Roblox is running in Administrator Run it as Administrator
 3. The script will:
-   - compile Java
-   - build `SailorPieceMango.jar`
-   - remove loose `.class` files
    - launch the app from jar
-
-## Manual Run (optional)
-
-```bat
-javac --module-path "javafx-sdk-26\lib" --add-modules javafx.web,javafx.controls -cp ".;libs\jna-5.13.0.jar;libs\jna-platform-5.13.0.jar;libs\gson-2.10.1.jar" -Xlint:-removal SailorPieceMango.java
-jar cfe SailorPieceMango.jar SailorPieceMango *.class
-del /q "*.class"
-java --enable-native-access=javafx.graphics,javafx.web,ALL-UNNAMED --module-path "javafx-sdk-26\lib" --add-modules javafx.web,javafx.controls -cp "SailorPieceMango.jar;libs\jna-5.13.0.jar;libs\jna-platform-5.13.0.jar;libs\gson-2.10.1.jar" SailorPieceMango
-```
-
+   
 ## Features
 
 ### Roblox Embed
