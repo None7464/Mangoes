@@ -25,7 +25,6 @@ April 7, 2026
 
 ## Project Layout
 
-- `SailorPieceMango.java` - main app
 - `sailor.bat` - compile, jar, cleanup, launch script
 - `UI/UI.html` - dashboard markup
 - `UI/UI.css` - dashboard styles
