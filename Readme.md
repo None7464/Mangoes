@@ -15,7 +15,7 @@ April 7, 2026
 ## Requirements
 
 - Windows 10/11
-- JDK 21+ (recommended)[https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.exe]
+- JDK 21+ [recommended](https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.exe)
 - JavaFX SDK folder in project root:
   - `javafx-sdk-26/lib`
 - Libraries in project root:
