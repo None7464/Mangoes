@@ -10,7 +10,7 @@ April 7, 2026
 
 - Dev_Still In Love (Won't Answer Dms)
 - Discord ID: `890484073485717535`
-- Notes For Ccs: You can post this mango anywhere you like
+- Notes For cc's: You can post this mango anywhere you like
 - Ty Copilot for this readme.md im lazy
 
 ## Requirements
