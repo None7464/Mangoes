@@ -12,7 +12,7 @@ April 7, 2026
 - Discord ID: `890484073485717535`
 - Notes For cc's: You can post this mango anywhere you like
 - Ty Copilot for this readme.md im lazy
-
+- Source when i wek up
 ## Requirements
 - Windows 10/11
 - JDK 21+ [recommended](https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.exe)
